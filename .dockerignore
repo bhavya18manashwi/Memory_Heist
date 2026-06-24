@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+dist
+.env
+.git
+.github
+.specify
+.specify-templates
+.env*.local
+*.tar
+*.zip
+*.md

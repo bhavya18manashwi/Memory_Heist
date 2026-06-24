@@ -1,0 +1,8 @@
+{
+  "name": "Memory Heist",
+  "description": "An immersive multiplayer memory heist and observation game featuring rich visual challenges inspired by iconic Indian scenes, real-time tactical chat, achievements, and AI-scale generated content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
