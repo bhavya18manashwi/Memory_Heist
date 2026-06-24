@@ -63,7 +63,7 @@ AI-generated content ensures fresh challenges in every session.
 | Backend     | Node.js, Express.js             |
 | AI Engine   | Google Gemini API               |
 | Build Tools | Vite                            |
-| Deployment  | Docker                          |
+| Deployment  | Vercel                          |
 
 ---
 
